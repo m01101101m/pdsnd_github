@@ -139,3 +139,4 @@ if __name__ == "__main__":
 # CHANGE 2-Note: data files must be in CSV format
 # Refactoring step 1: optimize data loading performance
 # Refactoring step 2: format trip duration calculations
+# Refactoring step 3: streamline user input validation logic
