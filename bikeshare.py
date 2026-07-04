@@ -138,3 +138,4 @@ if __name__ == "__main__":
 	main()
 # CHANGE 2-Note: data files must be in CSV format
 # Refactoring step 1: optimize data loading performance
+# Refactoring step 2: format trip duration calculations
