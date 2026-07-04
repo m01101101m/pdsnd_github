@@ -136,3 +136,4 @@ def main():
 
 if __name__ == "__main__":
 	main()
+# CHANGE 2-Note: data files must be in CSV format
